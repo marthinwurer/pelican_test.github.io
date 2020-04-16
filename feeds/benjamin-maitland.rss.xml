@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Pelican Test - Benjamin Maitland</title><link>/</link><description></description><lastBuildDate>Tue, 14 Apr 2020 00:00:00 -0400</lastBuildDate><item><title>Test Post Please Ignore</title><link>/what%20is%20a%20slug.html</link><description>&lt;p&gt;I think I just write markdown here?&lt;/p&gt;
+<rss version="2.0"><channel><title>Pelican Test - Benjamin Maitland</title><link>https://marthinwurer.github.io/pelican_test.github.io/</link><description></description><lastBuildDate>Tue, 14 Apr 2020 00:00:00 -0400</lastBuildDate><item><title>Test Post Please Ignore</title><link>https://marthinwurer.github.io/pelican_test.github.io/what%20is%20a%20slug.html</link><description>&lt;p&gt;I think I just write markdown here?&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="err"&gt;Hey look it&amp;#39;s code formatted&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;Oh no we're back&lt;/p&gt;
-&lt;p&gt;Well, time to complile this stuff.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benjamin Maitland</dc:creator><pubDate>Tue, 14 Apr 2020 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2020-04-14:/what is a slug.html</guid><category>tests</category></item></channel></rss>
+&lt;p&gt;Well, time to complile this stuff.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benjamin Maitland</dc:creator><pubDate>Tue, 14 Apr 2020 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:marthinwurer.github.io,2020-04-14:/pelican_test.github.io/what is a slug.html</guid><category>tests</category></item></channel></rss>
